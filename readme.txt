@@ -1,1 +1,1 @@
-Welcome to my repositorygit status
+Welcome to my repository
