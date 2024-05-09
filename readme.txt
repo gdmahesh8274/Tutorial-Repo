@@ -1,1 +1,1 @@
-Welcome to my tutorual-repo
+Welcome to my tutorial-repo
